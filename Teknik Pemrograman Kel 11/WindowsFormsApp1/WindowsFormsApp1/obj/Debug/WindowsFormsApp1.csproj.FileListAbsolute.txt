@@ -1,0 +1,20 @@
+C:\Users\infil\OneDrive\Documents\New folder\kuliah\P\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\infil\OneDrive\Documents\New folder\kuliah\P\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\infil\OneDrive\Documents\New folder\kuliah\P\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\infil\OneDrive\Documents\New folder\kuliah\P\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\infil\OneDrive\Documents\New folder\kuliah\P\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\infil\OneDrive\Documents\New folder\kuliah\P\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\infil\OneDrive\Documents\New folder\kuliah\P\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\infil\OneDrive\Documents\New folder\kuliah\P\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\infil\OneDrive\Documents\New folder\kuliah\P\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\infil\OneDrive\Documents\New folder\kuliah\P\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Afresha Frandito\Downloads\UTS Teknik Pemrograman Kel 11\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Afresha Frandito\Downloads\UTS Teknik Pemrograman Kel 11\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Afresha Frandito\Downloads\UTS Teknik Pemrograman Kel 11\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Afresha Frandito\Downloads\UTS Teknik Pemrograman Kel 11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Afresha Frandito\Downloads\UTS Teknik Pemrograman Kel 11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Afresha Frandito\Downloads\UTS Teknik Pemrograman Kel 11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Afresha Frandito\Downloads\UTS Teknik Pemrograman Kel 11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Afresha Frandito\Downloads\UTS Teknik Pemrograman Kel 11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Afresha Frandito\Downloads\UTS Teknik Pemrograman Kel 11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Afresha Frandito\Downloads\UTS Teknik Pemrograman Kel 11\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
